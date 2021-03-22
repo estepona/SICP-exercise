@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "eslint.format.enable": true
+}
