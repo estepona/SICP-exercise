@@ -17,5 +17,5 @@
       (iter-fn 2 1 0 3 n)))
 
 (define (iter-fn a b c step n)
-  (if (> step n) a)
-      (iter-fn (+ a (* 2 b) (* 3 c)) a b (+ step 1) n))
+  (if (> step n) a
+      (iter-fn (+ a (* 2 b) (* 3 c)) a b (+ step 1) n)))
