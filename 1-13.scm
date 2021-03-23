@@ -3,5 +3,5 @@
  | Use induction and the definition of the Fibonacci numbers to prove that Fib(n) = (a^n - b^n)/(sqrt 5).
  |#
 
-; this article has the perfect solution that I don't have:
+; this article has the perfect solution:
 ;   https://codology.net/post/sicp-solution-exercise-1-13/
